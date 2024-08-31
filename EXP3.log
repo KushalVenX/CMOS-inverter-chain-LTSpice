@@ -1,0 +1,11 @@
+Circuit: * \\wsl.localhost\Ubuntu\home\venxwsl\PCBgit\INVERTER CHAIN OSCILATOR\EXP3.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
