@@ -4,7 +4,7 @@ CMOS Inverter chain using LTSpice : Frequency calculation and power measurements
 # Repository Overview
 Basic Measruemnts of parametrs in LTSpice
 
-# CIRCUIT 
+# CIRCUIT (for power supply vdd=1.8v)
 <img src="https://github.com/KushalVenX/CMOS-inverter-chain-Oscillator-LTSpice/blob/master/SCRNSHT/crkt%201.8.png" width="700" />  
 
 # OUTPUT
